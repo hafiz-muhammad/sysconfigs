@@ -85,7 +85,16 @@ $apps = @(
     "Rufus.Rufus",
 
     # Zotero
-    "DigitalScholar.Zotero"
+    "DigitalScholar.Zotero",
+
+    # PowerToys
+    "Microsoft.PowerToys",
+
+    # CrystalDiskInfo
+    "CrystalDewWorld.CrystalDiskInfo",
+
+    # Obsidian
+    "Obsidian.Obsidian"
 )
 
 Write-Host "Starting software installation via WinGet..." -ForegroundColor Cyan
