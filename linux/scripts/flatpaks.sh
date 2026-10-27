@@ -95,6 +95,9 @@ FLATPAKS=(
     
     # Dev Toolbox (Development tools)
     me.iepure.devtoolbox
+
+    # Obsidian (Markdown-based knowledge base)
+    md.obsidian.Obsidian
 )
 
 TO_INSTALL=()
