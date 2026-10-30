@@ -54,3 +54,6 @@ common/scripts/hxtheme.cmd text eol=lf
 # Git LFS (Large File Storage) rules for backgrounds directory
 assets/backgrounds/** filter=lfs diff=lfs merge=lfs -text
 assets/backgrounds/**/*.md -filter -diff -merge text eol=lf
+
+# Set CRLF for .nip files
+*.nip text eol=crlf
