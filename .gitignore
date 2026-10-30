@@ -166,3 +166,7 @@ secrets/
 # Private directories
 [Pp]rivate/
 .[Pp]rivate/
+
+# Obsidian
+.obsidian/
+*[oO][bB][sS][iI][dD][iI][aA][nN]*/
